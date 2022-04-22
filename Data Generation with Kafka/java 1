@@ -14,18 +14,12 @@
  * limitations under the License.
  */
 
-package bbejeck.model;
+package wasebb.model;
 
 import java.util.Date;
 import java.util.Objects;
 import java.text.DecimalFormat;
 import java.util.concurrent.TimeUnit;
-
-/**
- * User: Bill Bejeck
- * Date: 2/20/16
- * Time: 9:09 AM
- */
 public class Purchase {
 
 	private String firstName;
